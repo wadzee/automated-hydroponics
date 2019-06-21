@@ -1,4 +1,4 @@
-> Automated Hydroponic System with Remote Monitoring
+# Automated Hydroponic System with Remote Monitoring
 
 ## Hardware Requirements
 
