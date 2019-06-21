@@ -17,7 +17,9 @@ This project uses the following hardware, you may use your own if its compatible
 ## Pre-requiste
 
 requires Raspberry Pi 3 running raspbian.
+
 requires [Node-RED](https://nodered.org/)
+
 requires [Arduino IDE](https://www.arduino.cc/)
 
 Arduino Uno connected to Raspberry Pi via USB connection.
