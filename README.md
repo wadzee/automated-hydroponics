@@ -22,7 +22,7 @@ requires [Arduino IDE](https://www.arduino.cc/)
 
 Arduino Uno connected to Raspberry Pi via USB connection.
 
-![p](how to connect.png)
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/how%20to%20connect.PNG)
 
 ## Installation
 
