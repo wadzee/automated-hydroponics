@@ -16,7 +16,7 @@
   - Current Plant Condition Monitoring in a friendly web interface
   - Automatically Turn On/Off light source depending on current ambient lighting
   
-![p](https://github.com/wadzee/automated-hydroponics/blob/master/features.png)
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/features.PNG)
 
 When viewed from website 
 
