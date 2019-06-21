@@ -1,10 +1,3 @@
-<h1 align="center">Welcome to  automated-hydroponics 👋</h1>
-<p>
-  <a href="https://github.com/wadzee/automated-hydroponics/blob/master/LICENSE">
-    <img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache 2.0-yellow.svg" target="_blank" />
-  </a>
-</p>
-
 > Automated Hydroponic System with Remote Monitoring
 
 ## Hardware Requirements
