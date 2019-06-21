@@ -14,18 +14,31 @@ This project uses the following hardware, you may use your own if its compatible
 | LDR| [Amazon](https://www.amazon.com/10pcs-Dependent-Resistor-Photoresistor-GL5528/dp/B00XDT8KI4) |
 | Relay | [Amazon](https://www.amazon.com/JBtek-Channel-Module-Arduino-Raspberry/dp/B00KTEN3TM/ref=sr_1_3?keywords=4+channel+relay&qid=1561157309&s=gateway&sr=8-3) |
 
-## Installalation
+## Pre-requiste
 
-This project requires a Raspberry Pi
+requires Raspberry Pi 3 running raspbian.
+requires [Node-RED](https://nodered.org/)
+requires [Arduino IDE](https://www.arduino.cc/)
+
+Arduino Uno connected to Raspberry Pi via USB connection.
+
+![p](how to connect.png)
+
+## Installation
+
+### Node-RED
+Open Terminal and run the following code to install Node-Red
 
 ```sh
-bash &lt;(curl -sL https://raw.githubusercontent.com/node-red/raspbian-deb-package/master/resources/update-nodejs-and-nodered)
+bash <(curl -sL https://raw.githubusercontent.com/node-red/raspbian-deb-package/master/resources/update-nodejs-and-nodered)
 ```
 
-## Usage
+### Arduino IDE
+Open Terminal and run the following code to install Arduino IDE
 
 ```sh
-node-red-start
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install arduino
 ```
 
 ## Author
