@@ -41,6 +41,8 @@ sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install arduino
 ```
 
+***
+
 ## Author
 
 👤 **Radzi Ramli**
@@ -55,6 +57,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [Radzi Ramli](https://github.com/wadzee).<br />
 This project is [Apache 2.0](https://github.com/wadzee/automated-hydroponics/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
