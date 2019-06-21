@@ -1,6 +1,26 @@
 # automated-hydroponics
 > Automated Hydroponic System with Remote Monitoring
 
+**Short description** :
+
+  > This project focuses on indoor growing using hydroponic technique.
+  > As such, most of the feature/requirement develop is catered for it.
+  > Currently, the system will be able to monitor current PH, EC and ambient lighting.
+  > For the time being, i will not be able to upload some of the additional code as it is 
+  > my Final Year Project. Will upload the full content when its ready. Cheers
+
+# Features!
+
+  - Ability to specify type of plant that is going to be grown using the system (Lettuce, Kale, etc..)
+  - Automated PH & EC Dosing Mechanism
+  - Current Plant Condition Monitoring in a friendly web interface
+  - Automatically Turn On/Off light source depending on current ambient lighting
+
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/monitor.PNG)
+
+**Important Note**:
+  - Some code/features is missing from the repo as it is an ongoing project for my FYP course
+
 ## Hardware Requirements
 
 This project uses the following hardware, you may use your own if its compatible.
