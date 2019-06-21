@@ -15,6 +15,12 @@
   - Automated PH & EC Dosing Mechanism
   - Current Plant Condition Monitoring in a friendly web interface
   - Automatically Turn On/Off light source depending on current ambient lighting
+  
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/homepage.PNG)
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/specify.PNG)
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/mobile_monitor.PNG)
+
+When viewed from website 
 
 ![p](https://github.com/wadzee/automated-hydroponics/blob/master/monitor.PNG)
 
@@ -33,6 +39,7 @@ This project uses the following hardware, you may use your own if its compatible
 | EC Sensor | [DIY](https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino) |
 | LDR| [Amazon](https://www.amazon.com/10pcs-Dependent-Resistor-Photoresistor-GL5528/dp/B00XDT8KI4) |
 | Relay | [Amazon](https://www.amazon.com/JBtek-Channel-Module-Arduino-Raspberry/dp/B00KTEN3TM/ref=sr_1_3?keywords=4+channel+relay&qid=1561157309&s=gateway&sr=8-3) |
+| Pump | [Amazon](https://www.amazon.com/Gikfun-Submersible-Fountain-Aquarium-EK1893/dp/B07BHD6KXS/ref=pd_lpo_sbs_60_t_0?_encoding=UTF8&psc=1&refRID=TQYTT601T1NQPXQKMPNE) |
 
 ## Pre-requiste
 
