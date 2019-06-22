@@ -34,7 +34,7 @@ When viewed from website
 
 LDR value update in **Real Time** as soon as the LDR sensor is covered with blackbox. (works with other sensors too)
 
-![p](https://i.imgur.com/5wHQjTG.gifv)
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/ldrdemo.gif)
 
 ## Hardware Requirements
 
