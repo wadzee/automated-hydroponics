@@ -30,6 +30,12 @@ When viewed from website
 **Important Note**:
   - Some code/features is missing from the repo as it is an ongoing project for my FYP course
 
+# Demo
+
+LDR value update in **Real Time** as soon as the LDR sensor is covered with blackbox. (works with other sensors too)
+
+![p](https://i.imgur.com/5wHQjTG.gifv)
+
 ## Hardware Requirements
 
 This project uses the following hardware, you may use your own if its compatible.
