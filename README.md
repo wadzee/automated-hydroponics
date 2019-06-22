@@ -67,7 +67,21 @@ Open Terminal and run the following code to install Arduino IDE
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install arduino
 ```
+## Running
 
+Open Terminal and run the following code to start Node-RED
+```sh
+node-red-start
+```
+Verify the node-red is running by navigating to the default server address in your preferred browser 
+```sh
+127.0.0.1:1880
+```
+Import this [file](https://github.com/wadzee/automated-hydroponics/blob/master/flows.json) into Node-RED dashboard. 
+
+**Note**
+- Change the USB port to the correct port (the one where your Arduino is connected to).
+- Be sure to swap out the `Sensor Data` file address to your own address to avoid conflict.
 ***
 
 ## Author
