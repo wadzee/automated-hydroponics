@@ -3,7 +3,7 @@
 
 <p>
   <a href="https://github.com/wadzee/automated-hydroponics/blob/master/LICENSE">
-    <img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache 2.0-yellow.svg" target="_blank" />
+    <img alt="License: Apache 2.0" src="https://img.shields.io/badge/MIT-yellow.svg" target="_blank" />
   </a>
 </p>
 
