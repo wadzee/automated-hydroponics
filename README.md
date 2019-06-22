@@ -6,8 +6,7 @@
   > This project focuses on indoor growing using hydroponic technique.
   > As such, most of the feature/requirement develop is catered for it.
   > Currently, the system will be able to monitor current PH, EC and ambient lighting.
-  > For the time being, i will not be able to upload some of the additional code as it is   
-  > my Final Year Project. Will upload the full content when its ready. Cheers
+  > For the time being, i will not be able to upload some of the additional code as it is my Final Year Project. Will upload the full content when its ready. Cheers
 
 # Features!
 
