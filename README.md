@@ -3,7 +3,7 @@
 
 <p>
   <a href="https://github.com/wadzee/automated-hydroponics/blob/master/LICENSE">
-    <img alt="License: Apache 2.0" src="https://img.shields.io/badge/MIT-yellow.svg" target="_blank" />
+    <img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
 
@@ -108,4 +108,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Radzi Ramli](https://github.com/wadzee).<br />
-This project is [Apache 2.0](https://github.com/wadzee/automated-hydroponics/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/wadzee/automated-hydroponics/blob/master/LICENSE) licensed.
