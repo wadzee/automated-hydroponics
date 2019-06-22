@@ -39,6 +39,12 @@ This project uses the following hardware, you may use your own if its compatible
 | Relay | [Amazon](https://www.amazon.com/JBtek-Channel-Module-Arduino-Raspberry/dp/B00KTEN3TM/ref=sr_1_3?keywords=4+channel+relay&qid=1561157309&s=gateway&sr=8-3) |
 | Pump | [Amazon](https://www.amazon.com/Gikfun-Submersible-Fountain-Aquarium-EK1893/dp/B07BHD6KXS/ref=pd_lpo_sbs_60_t_0?_encoding=UTF8&psc=1&refRID=TQYTT601T1NQPXQKMPNE) |
 
+## Fritzing Sketches
+
+Drawing for Hardware Connection. You may get the fritzing file [here](https://github.com/wadzee/automated-hydroponics/blob/master/Fritzing%20Sketches.fzz)
+
+![p](https://github.com/wadzee/automated-hydroponics/blob/master/Sketches.png)
+
 ## Pre-requiste
 
 requires Raspberry Pi 3 running raspbian.
